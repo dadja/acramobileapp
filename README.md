@@ -25,9 +25,8 @@ and developped by ReptxStudio
 this software is free to use but you must notify the two teams behind the project ACRA and ReptxStudios 
 and mention their names when producing your app from this one
 
-# this is the mobile part of a software to collect data 
-
-#it has been developped using FireBase and Flutter
+this is the mobile part of a ACRA SI to collect data 
+it has been developped using FireBase and Flutter
 
 # you need to link a firebase project to this one and the web app to make it work 
 
