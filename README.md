@@ -27,12 +27,9 @@ and mention their names when producing your app from this one
 
 this is the mobile part of a ACRA SI to collect data 
 it has been developped using FireBase and Flutter
-
-# you need to link a firebase project to this one and the web app to make it work 
-
-# you will aslo have to provide a google maps key in order to have the map working and display data on it 
-
-
+#SETUP
+- you need to link a firebase project to this one and the web app to make it work 
+ - you will aslo have to provide a google maps key in order to have the map working and display data on it 
 ##to set things up this is the process to follow 
   -  First from FireBase console importe the google_service.json file from you project
    and drop it in this project at "mobileapp/android/app/google_service.json"
