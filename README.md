@@ -27,7 +27,8 @@ and mention their names when producing your app from this one
 
 this is the mobile part of a ACRA SI to collect data 
 it has been developped using FireBase and Flutter
-#SETUP
+
+# SETUP
 - you need to link a firebase project to this one and the web app to make it work 
  - you will aslo have to provide a google maps key in order to have the map working and display data on it 
 ##to set things up this is the process to follow 
