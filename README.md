@@ -20,6 +20,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+Copyright (c) Acra [2019] 
+Developped by [ReptxStudio] [ACRA]
+Developer id : @dadja
+
 Proposed by ACRA 
 and developped by ReptxStudio
 this software is free to use but you must notify the two teams behind the project ACRA and ReptxStudios 
