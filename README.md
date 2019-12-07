@@ -35,7 +35,7 @@ it has been developped using FireBase and Flutter
   -  First from FireBase console importe the google_service.json file from you project
    and drop it in this project at "mobileapp/android/app/google_service.json"
   -  Second add your google maps key at 
-  "mobileapp/android/app/src/main/AndroidManifest". Inside that file loof for "DROPGOOGLEMAPSKEYHERE" and replace it by your key. 
+  "mobileapp/android/app/src/main/AndroidManifest". Inside that file looK for "DROPGOOGLEMAPSKEYHERE" and replace it by your key. 
   -  You need to create an FireBase Authentification Account if you didnt done it yet and insert the right credentials in this project at
   "mobileaqpp/lib/services/auth_service.dart".Inside that file go at line 31 and 32 to provide the creadentials of the account you previously created.
 
